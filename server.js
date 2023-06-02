@@ -4,7 +4,7 @@ const app = express();
 
 // CONFIGS
 require("dotenv").config();
-// require("./config/db")();
+require("./config/db")();
 // MIDDLEWARES
 app.use(cors());
 app.use(express.static('./public'))
