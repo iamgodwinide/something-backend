@@ -1904,24 +1904,17 @@
         "index": 272
     },
     {
-        "address": "0x757A66FADE9F178E0E3F57D4b063ecD99C458Ae4",
+        "address": "0x757a66fade9f178e0e3f57d4b063ecd99c458ae4",
         "amountInEth": 1,
         "amountInTokens": 50000000,
         "claimed": false,
         "index": 273
     },
     {
-        "address": "0xBDDEf1237DDaD1819671708A1E12Fe0e4FDD4e1d",
+        "address": "0xbddef1237ddad1819671708a1e12fe0e4fdd4e1d",
         "amountInEth": 2,
         "amountInTokens": 100000000,
         "claimed": false,
         "index": 274
-    },
-    {
-        "address": "0x55cf531cdb798e86dfc211052c1f5aaae00e55ab",
-        "amountInEth": 2.2,
-        "amountInTokens": 110000000,
-        "claimed": false,
-        "index": 275
     }
 ]
